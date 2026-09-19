@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Noirmiles
-- Ive been coding for several years but I'm just now dipping my toes into Stack development!
-- Quite honestly, I'm just trying to learn a few things while I'm here and contribute to the commuinty
-- 
+👋 Hi, I’m @Noirmiles
+Security engineer. I build the tooling teams rely on — the kind that turns someone's manual, spreadsheet-driven process into something a pipeline checks automatically.
+Most of what I do professionally isn't public. What's here is the part that can be, plus whatever I'm building on my own time.
 
 <!---
 Noirmiles/Noirmiles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
